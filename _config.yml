@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale: "en-US"
 site_theme: "default"
-title: "Your Name / Site Title"
+title: "Tin (James) Dinh"
 title_separator: "-"
 name: &name "Your Name"
 description: &description "personal description"
@@ -23,13 +23,13 @@ repository: "james-dinhh/james-dinhh"
 author:
   # Biographic information
   avatar: "profile.png"
-  name: "Your Sidebar Name"
-  pronouns: # example: "she/her"
+  name: "Dinh Le Hong Tin"
+  pronouns: "he/him/his"
   bio: "Short biography for the left-hand sidebar"
-  location: "Earth"
-  employer: "Red Brick University"
+  location: "Ho Chi Minh City, Vietnam"
+  employer: "RMIT University Vietnam"
   uri: # URL
-  email: "none@example.org"
+  email: "jamesdinhh.work@gmail.com"
 
   # Academic websites
   academia: # URL
