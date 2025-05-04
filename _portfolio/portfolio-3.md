@@ -4,7 +4,7 @@ excerpt: "This mini report provides an equity analysis and valuation of Petrolim
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Assessed asset allocation strategies, applied modern portfolio and capital market theories, and explored multi-factor asset pricing models. Compared fundamental and technical analysis for investment decisions and evaluated company performance by analyzing economic indicators and applying security valuation techniques.
 
 <embed src="/files/company_valuation.pdf" type="application/pdf" width="100%" height="800px" />
 

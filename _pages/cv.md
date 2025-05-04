@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<i>Note: For a detailed version, please contact me directly via my e-mail.</i>
+<i>Note: for a detailed version, please contact me directly via my e-mail.</i>
 {% include base_path %}
 
 Education

@@ -4,7 +4,7 @@ excerpt: "This report simulates real-world portfolio management by constructing 
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Analyzed asset allocation, investment decision methods, and company performance using valuation techniques; built active and passive portfolios considering risk-return trade-offs; and evaluated portfolio performance using various assessment methods.
 
 <embed src="/files/portfolio_management.pdf" type="application/pdf" width="100%" height="800px" />
 
