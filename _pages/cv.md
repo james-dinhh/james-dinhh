@@ -12,6 +12,9 @@ redirect_from:
 Education
 ======
 * B.S. in Information Technology, RMIT University, 2022 - 2025
+  * Current GPA: 3.3
+  * Relevant Courses: Software Engineering Fundamentals for IT, User-centered Design, Building IT Systems, Data Structures & Algorithms, Cloud Foundations.
+  * Minor: Finance (Equity Investment & Portfolio Management, Forecasting and Quantitative Finance, Cryptofinance & Cryptocurrency)
 
 Work experience
 ======
