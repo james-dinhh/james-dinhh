@@ -1,11 +1,10 @@
 ---
-title: "Petrolimex - Company Valuation"
-excerpt: "Short description of portfolio item number 3<br/>"
+title: "Smart Pharmacy - iOS Application"
+excerpt: "<i>Smart Pharmacy</i> aims to bridge the healthcare gap between rural and urban areas by providing underserved communities with digital access to essential medications, health consultations, and prescriptions. <br/>"
 collection: portfolio
 ---
 
 This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
 
-<embed src="/files/company_valuation.pdf" type="application/pdf" width="100%" height="800px" />
 
 

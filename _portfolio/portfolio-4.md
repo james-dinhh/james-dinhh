@@ -1,6 +1,6 @@
 ---
 title: "Equity Portfolio Management Report"
-excerpt: "Short description of portfolio item number 2 <br/>"
+excerpt: "This report simulates real-world portfolio management by constructing passive and active portfolios - matching benchmark performance in the former and pursuing outperformance through strategic stock and sector selection in the latter -  earning a top 1% score in the course. <br/>"
 collection: portfolio
 ---
 

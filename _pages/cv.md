@@ -1,12 +1,12 @@
 ---
 layout: archive
-title: "CV"
+title: "Public CV"
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
 ---
-
+<i>Note: For a detailed version, please contact me directly via my e-mail.</i>
 {% include base_path %}
 
 Education
@@ -14,23 +14,23 @@ Education
 * B.S. in Information Technology, RMIT University, 2022 - 2025
   * Current GPA: 3.3
   * Relevant Courses: Software Engineering Fundamentals for IT, User-centered Design, Building IT Systems, Data Structures & Algorithms, Cloud Foundations.
-  * Minor: Finance (Equity Investment & Portfolio Management, Forecasting and Quantitative Finance, Cryptofinance & Cryptocurrency)
+  * Minor: Finance (Equity Investment & Portfolio Management, Forecasting & Quantitative Finance, Cryptofinance & Cryptocurrency)
 
 Work experience
 ======
-* Capstone Project Manager (Apr 2025 - Sep 2025)
+* Capstone Project Manager (Apr 2025 - Sep 2025) 
   * Intel Corporation
-  <!-- * Main duties: Oversaw the implementation of automated processes, and coordinated cross-functional teams and stakeholders.  -->
+  * Duties included: Oversaw the implementation of automated processes, and coordinated cross-functional teams. 
   <!-- * Supervisor: The Users -->
 
 * Product Support (Oct 2024 - Mar 2025) 
   * Katalon
-  <!-- * Duties included: Merging pull requests -->
+  * Duties included: Led user feedback analysis, authored technical documentation, and resolved technical support cases for Katalon’s B2B SaaS platform.
   <!-- * Supervisor: Professor Hub -->
 
 * QA Tester (Nov 2023 - May 2024)
   * The Heineken Company (Tiger Tribe, APAC)
-  <!-- * Duties included: Tagging issues -->
+  * Duties included: Executed comprehensive testing strategies that improved test coverage and defect detection, resulting in enhanced product stability.
   <!-- * Supervisor: Professor Git -->
   
 Skills
