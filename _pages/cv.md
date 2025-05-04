@@ -11,37 +11,42 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Information Technology, RMIT University, 2022 - 2025
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Capstone Project Manager (Apr 2025 - Sep 2025)
+  * Intel Corporation
+  <!-- * Main duties: Oversaw the implementation of automated processes, and coordinated cross-functional teams and stakeholders.  -->
+  <!-- * Supervisor: The Users -->
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Product Support (Oct 2024 - Mar 2025) 
+  * Katalon
+  <!-- * Duties included: Merging pull requests -->
+  <!-- * Supervisor: Professor Hub -->
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* QA Tester (Nov 2023 - May 2024)
+  * The Heineken Company (Tiger Tribe, APAC)
+  <!-- * Duties included: Tagging issues -->
+  <!-- * Supervisor: Professor Git -->
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages: Java, JavaScript, Swift, Python, HTML/CSS, SQL.
+* Cloud & DevOps: Microsoft Azure, Amazon Web Services, Docker, Jenkins, GitHub Actions.
+* Product Management Tools: Jira, Confluence, Figma (wireframing/prototyping).
+* Knowledge Areas: Agile Practices (Scrum, Kanban), Software Development Life Cycle, Design Patterns, Research & Development.
 
-Publications
+Certifications
+======
+* Mastering Product Management [\(Reforge\)](https://drive.google.com/file/d/1Muxa2cilfmukTH4nj8na32dcLdRFyAaA/view?usp=sharing)
+* Product-Led Growth Micro-Certification [\(Product School\)](https://drive.google.com/file/d/1frrGbSeiltr9O8pYsDxAtoUNWVN7rU2x/view?usp=sharing)
+* Intermediate Algorithms [\(Big-O Coding\)](https://drive.google.com/file/d/19mZbfDPFKw1ByKlJQpZw91yQoKTPz6vR/view?usp=sharing)
+* Enterprise Design Thinking Practitioner [\(IBM\)](https://www.credly.com/badges/e784a283-e4a6-4751-8947-60119990a899/public_url)
+
+
+
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -61,4 +66,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
