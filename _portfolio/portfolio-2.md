@@ -8,6 +8,4 @@ Health Eats is an mobile application promotes healthier eating through calorie i
 
 <embed src="/files/Software Requirements Specification.pdf" type="application/pdf" width="100%" height="800px" />
 
-
-
 <embed src="/files/Software Design Document.pdf" type="application/pdf" width="100%" height="800px" />
