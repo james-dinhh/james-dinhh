@@ -15,8 +15,6 @@ I specialize in translating user insights into actionable product improvements. 
 
 Skilled in R, Python, SQL, and tools like <i>JIRA, Confluence</i>, I bring a product mindset to data-driven problem solving, with recent work involving macroeconomic forecasting and automation reporting for global clients like Intel and DHL.
 
-<b>Programming Languages:</b> Java, Swift. 
-
 ---
 
 <script>
